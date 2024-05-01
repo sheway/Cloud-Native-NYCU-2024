@@ -36,16 +36,3 @@ jobs:
           file: ./app/Dockerfile
           push: false
           tags: app-local　
-Additional
-Status Badge
-Shell Script (welcome to SA)
-Open Source Project Workflow
-ex. https://github.com/kubernetes/kubernetes
-
-Read CONTRIBUTING.md, LICENSE, and Code of Conduct.
-Fork repo to your account.
-Clond to your dev environment (ex. your laptop).
-Create branch and coding.
-Push branch and create PR (your repo -> project official repo).
-Review by everyone.
-Approve and Merge.
